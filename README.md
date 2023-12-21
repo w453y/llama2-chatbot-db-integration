@@ -1,6 +1,6 @@
 # 🦙💬 Llama 2 Chatbot with Database Integration
 
-This chatbot is created using the open-source Llama 2 LLM model from Meta and it saves the user input in the sqlite db.
+This chatbot is created using the open-source Llama 2 LLM model from Meta by https://github.com/dataprofessor/llama2.git and it saves the user input in the sqlite db.
 
 ## Prerequisite libraries
 
