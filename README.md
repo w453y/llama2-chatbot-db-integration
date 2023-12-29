@@ -23,6 +23,13 @@ pip3 install -r requirements.txt
 streamlit run app.py
 ```
 
+## Installation with Docker
+
+```
+docker build -t chatbot .
+docker run -p 8501:8501 -v $(pwd):/app chatbot
+```
+
 ### Access the saved User_Input from Database
 
 ```
